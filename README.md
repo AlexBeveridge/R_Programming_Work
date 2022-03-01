@@ -6,18 +6,18 @@ This is a repository for my R programming work and projects from my Business Ana
 
 PROJECT INFO:
 
-AIRBNB Project.R
+AIRBNB_Project.R
 
 This project was a group assignment, concentrating on an AirBnb dataset. 
 The task was to gather business insight based on text data. 
 Key programming analysis used includes Bigrams, Sentiment Analysis, Correlation and ggplots, TF-IDF analysis.
 
-Text Analytics Exam.R
+Text_Analytics_Exam.R
 
 This was an Exam taken during the "Text Analytics and NLP" module. 
 I received a distinction grade for this work. 
 
-Disneyland Project Final.R
+Disneyland_Project_Final.R
 
 This was an Individual project completed for an individual assignment. 
 I gathered business insight from text data regarding reviews of Disneyland resorts worldwide. 
